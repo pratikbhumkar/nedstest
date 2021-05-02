@@ -7,7 +7,7 @@ import App from './App';
 import { name as appName } from './app.json';
 import { Provider } from "react-redux";
 import { createStore, combineReducers, applyMiddleware } from "redux";
-import {RaceReducer, fetchRaces} from "./DataStore/RaceReducer";
+import {RaceReducer, fetchRaces} from "./src/DataStore/RaceReducer";
 import thunk from "redux-thunk";
 const combinedReducers = combineReducers({ Race: RaceReducer});
 const combinedStore = createStore(combinedReducers, applyMiddleware(thunk));

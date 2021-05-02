@@ -19,18 +19,15 @@ import {
 
 import {
   Colors,
-  DebugInstructions,
   Header,
-  LearnMoreLinks,
-  ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 import { useDispatch, useSelector } from "react-redux";
-
-const Section = ({children, title}) => {
+import CategorySelect from "./src/components/CategorySelect";
+const Section = ({ children, title }) => {
   const dispatch = useDispatch();
   const Race = useSelector((state) => state.Race);
   const isDarkMode = useColorScheme() === 'dark';
-  //console.log('Race==',Race.RaceSummaries)
+
   return (
     <View style={styles.sectionContainer}>
       <Text
@@ -55,9 +52,8 @@ const Section = ({children, title}) => {
   );
 };
 
-const App= () => {
+const App = () => {
   const isDarkMode = useColorScheme() === 'dark';
-
   const backgroundStyle = {
     backgroundColor: isDarkMode ? Colors.darker : Colors.lighter,
   };
@@ -73,20 +69,9 @@ const App= () => {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-          <Section title="Step One">
-            Edit <Text style={styles.highlight}>App.js</Text> to change this
-            screen and then come back to see your edits.
-          </Section>
-          <Section title="See Your Changes">
-            <ReloadInstructions />
-          </Section>
-          <Section title="Debug">
-            <DebugInstructions />
-          </Section>
-          <Section title="Learn More">
-            Read the docs to discover what to do next:
-          </Section>
-          <LearnMoreLinks />
+
+          <CategorySelect />
+          
         </View>
       </ScrollView>
     </SafeAreaView>
