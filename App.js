@@ -7,7 +7,6 @@
  */
 
 import React from 'react';
-import type {Node} from 'react';
 import {
   SafeAreaView,
   ScrollView,
@@ -25,8 +24,11 @@ import {
   LearnMoreLinks,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
+import { useDispatch, useSelector } from "react-redux";
 
-const Section = ({children, title}): Node => {
+const Section = ({children, title}) => {
+  const dispatch = useDispatch();
+  const Race = useSelector((state) => state.Race);
   const isDarkMode = useColorScheme() === 'dark';
   return (
     <View style={styles.sectionContainer}>
@@ -52,7 +54,7 @@ const Section = ({children, title}): Node => {
   );
 };
 
-const App: () => Node = () => {
+const App= () => {
   const isDarkMode = useColorScheme() === 'dark';
 
   const backgroundStyle = {
