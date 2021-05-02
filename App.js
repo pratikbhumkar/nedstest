@@ -30,6 +30,7 @@ const Section = ({children, title}) => {
   const dispatch = useDispatch();
   const Race = useSelector((state) => state.Race);
   const isDarkMode = useColorScheme() === 'dark';
+  //console.log('Race==',Race.RaceSummaries)
   return (
     <View style={styles.sectionContainer}>
       <Text

@@ -1,5 +1,6 @@
 const Race = {
-    count : 21
+    NextToGoRaceIds:{},
+    RaceSummaries:{}
 };
 
 export default Race;

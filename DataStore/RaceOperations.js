@@ -1,12 +1,12 @@
 
 import Race from "./RaceModel";
 
-export const RaceUp= (Race=Race)=>{
-    Race.count++;
+export const SetNextToGoRaceIds= (payload)=>{
+    Race.NextToGoRaceIds = payload;
     return Race;
 }
 
-export const RaceDown= (Race=Race)=>{
-    Race.count--;
+export const SetRaceSummaries= (payload)=>{
+    Race.RaceSummaries = payload;
     return Race;
 }
