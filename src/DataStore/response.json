@@ -2,30 +2,59 @@
     "status": 200,
     "data": {
         "next_to_go_ids": [
-            "47a17088-f219-42f3-bae3-c2e847e275fb",
-            "4c20480d-e980-48bd-992e-a16e24ff16a5",
-            "bcd94463-410f-4137-97ba-18598be286c5",
-            "5d59283c-f781-4820-b00f-3dd76e8450d8",
-            "e5454fe3-4a0a-4a96-b0b9-050af69f73b5",
-            "33136c29-54c4-407f-ae8b-16817866bf86",
-            "ccbd716a-4bf7-4a28-9f47-0b2e244690d6",
-            "b59c9ba7-1149-4fb3-aa61-e4024a7499b7",
-            "c28b12d3-f50a-4584-a515-663233305217",
-            "e0d55055-2907-4b9e-a2e7-70e9d68e9ed7"
+            "e9bf0ab6-8750-406e-a309-5d7e8bc221da",
+            "89cae667-9528-45e9-9512-ef4c8e59a164",
+            "27362a1e-0395-4476-be59-11c70d55c266",
+            "1807103d-86c7-4749-90a6-e3092e3dbe7f",
+            "e2e26a03-38b9-49eb-8f0c-4a8e73a6c728",
+            "c79b1258-9d4c-4b8a-aa24-a4345d03b367",
+            "7240e870-56e7-4ae7-aa7f-9de6f61ae11a",
+            "3ee7b6b5-9bbc-4d05-9401-e3b0c0d45bcc",
+            "6bd05c2c-e630-4120-9157-b4f3b3c0ad41",
+            "394494cb-2113-4427-87bf-d4d07c8c3463"
         ],
         "race_summaries": {
-            "33136c29-54c4-407f-ae8b-16817866bf86": {
-                "race_id": "33136c29-54c4-407f-ae8b-16817866bf86",
-                "race_name": "Forbes Diggers Harness Racing Club Final",
-                "race_number": 7,
-                "meeting_id": "f507f820-5cd5-45d5-8ae3-516e4827b96b",
-                "meeting_name": "Forbes",
-                "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+            "1807103d-86c7-4749-90a6-e3092e3dbe7f": {
+                "race_id": "1807103d-86c7-4749-90a6-e3092e3dbe7f",
+                "race_name": "238Mtrs (D4)",
+                "race_number": 5,
+                "meeting_id": "3a3aa2fb-e8d1-4ee2-973f-02b321136dd5",
+                "meeting_name": "Harlow Bags",
+                "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
                 "advertised_start": {
-                    "seconds": 1619935800
+                    "seconds": 1619952840
                 },
                 "race_form": {
-                    "distance": 2060,
+                    "distance": 238,
+                    "distance_type": {
+                        "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+                        "name": "Metres",
+                        "short_name": "m"
+                    },
+                    "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+                    "race_comment": "Racing Post Top picks 4,6,1",
+                    "additional_data": "{\"gait\":\"Gallop\",\"classes\":[\"D4\"],\"prizes\":[{\"type\":\"total_value\",\"value\":\"55\"}],\"start_time\":\"2/05/2021 8:24:00 PM\"}",
+                    "generated": 1,
+                    "silk_base_url": "drr38safykj6s.cloudfront.net",
+                    "race_comment_alternative": "Racing Post Top picks 4,6,1"
+                },
+                "venue_id": "630485d1-2812-4965-80c1-a84c8f71b4b5",
+                "venue_name": "Harlow Bags",
+                "venue_state": "UK",
+                "venue_country": "UK"
+            },
+            "27362a1e-0395-4476-be59-11c70d55c266": {
+                "race_id": "27362a1e-0395-4476-be59-11c70d55c266",
+                "race_name": "Greyhound Products Direct",
+                "race_number": 12,
+                "meeting_id": "196bb5dc-3e1f-4a75-81e9-846135b0fd31",
+                "meeting_name": "Richmond",
+                "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+                "advertised_start": {
+                    "seconds": 1619952780
+                },
+                "race_form": {
+                    "distance": 330,
                     "distance_type": {
                         "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
                         "name": "Metres",
@@ -39,119 +68,35 @@
                     },
                     "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
                     "weather": {
-                        "id": "0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
-                        "name": "Overcast",
-                        "short_name": "overcast",
-                        "icon_uri": "Overcast"
+                        "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+                        "name": "FINE",
+                        "short_name": "fine",
+                        "icon_uri": "FINE"
                     },
-                    "weather_id": "0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
-                    "race_comment": "SAINT JULIEN (4) was ultra-impressive when he scored by 15 metres at this track last start over 2060m. Should continue with the good form. The one they have to beat. MACH DADDY (5) was a dominant 30 metres winner at this track over 2060m last start. Racing well and rates highly - sure to prove very hard to beat. RING THE TILL (11) has been about the mark of late and is a great chance to find winning form. Good effort last time out when he finished second at this track over 2060m. TULHURST TERROR (9) must be considered after he finished runner-up over 2060m at this track a week ago.",
-                    "additional_data": "{\"gait\":\"Trot\",\"prizes\":[{\"type\":\"total_value\",\"value\":\"$12,240\"}],\"start_time\":\"02/05/2021 15:40:00 PM\"}",
+                    "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+                    "race_comment": "IDEAL DREAM (2) has a strong record this trip with nine wins and 10 placings from 27 starts. Placed last time (19.94) at Goulburn in a NG, finishing second and beaten 2.75 lengths. Looks well placed and should feature. ONE PENNY (8) hit the ground running with a scorching early sectional but had to settle for a minor placing when a one length third over 330m at this track, clocking 18.87. Goes very well this draw boasting three wins and two places from six starts. Hard to beat again here. RITZA RED HEAD (1) quickly away to win over the 330m at this track two runs back then raced on speed again when finishing second at this track last start. Expecting another good run. GENERAL CORTEZ (4) finished in the placings last start and deserves some thought.",
+                    "additional_data": "{\"gait\":\"Gallop\",\"classes\":[\"FREE FOR ALL\"],\"prizes\":[{\"type\":\"1st\",\"value\":\"1700\"},{\"type\":\"2nd\",\"value\":\"530\"},{\"type\":\"3rd\",\"value\":\"400\"},{\"type\":\"total_value\",\"value\":\"2630\"}],\"start_time\":\"02/05/2021 20:23:00 PM\"}",
                     "generated": 1,
                     "silk_base_url": "drr38safykj6s.cloudfront.net",
-                    "race_comment_alternative": "SAINT JULIEN (4) was ultra-impressive when he scored by 15 metres at this track last start over 2060m. Should continue with the good form. The one they have to beat. MACH DADDY (5) was a dominant 30 metres winner at this track over 2060m last start. Racing well and rates highly - sure to prove very hard to beat. RING THE TILL (11) has been about the mark of late and is a great chance to find winning form. Good effort last time out when he finished second at this track over 2060m. TULHURST TERROR (9) must be considered after he finished runner-up over 2060m at this track a week ago."
+                    "race_comment_alternative": "IDEAL DREAM (2) has a strong record this trip with nine wins and 10 placings from 27 starts. Placed last time (19.94) at Goulburn in a NG, finishing second and beaten 2.75 lengths. Looks well placed and should feature. ONE PENNY (8) hit the ground running with a scorching early sectional but had to settle for a minor placing when a one length third over 330m at this track, clocking 18.87. Goes very well this draw boasting three wins and two places from six starts. Hard to beat again here. RITZA RED HEAD (1) quickly away to win over the 330m at this track two runs back then raced on speed again when finishing second at this track last start. Expecting another good run. GENERAL CORTEZ (4) finished in the placings last start and deserves some thought."
                 },
-                "venue_id": "6ecd8c67-e470-4f6a-b1f3-50ac08dfb8b9",
-                "venue_name": "Forbes",
+                "venue_id": "d9bf49ec-2497-4ef7-ace2-486f60bae4b2",
+                "venue_name": "Richmond",
                 "venue_state": "NSW",
                 "venue_country": "AUS"
             },
-            "47a17088-f219-42f3-bae3-c2e847e275fb": {
-                "race_id": "47a17088-f219-42f3-bae3-c2e847e275fb",
-                "race_name": "Tango Stakes",
-                "race_number": 10,
-                "meeting_id": "2ef5e63f-fac2-40d7-83fa-4a50f4009176",
-                "meeting_name": "Hanshin",
-                "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
-                "advertised_start": {
-                    "seconds": 1619935200
-                },
-                "race_form": {
-                    "distance": 1400,
-                    "distance_type": {
-                        "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
-                        "name": "Metres",
-                        "short_name": "m"
-                    },
-                    "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
-                    "track_condition": {
-                        "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
-                        "name": "Good",
-                        "short_name": "good"
-                    },
-                    "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
-                    "weather": {
-                        "id": "187e38d4-ab03-11e7-85e3-0641c90711b8",
-                        "name": "Showers",
-                        "short_name": "showers",
-                        "icon_uri": "Showers"
-                    },
-                    "weather_id": "187e38d4-ab03-11e7-85e3-0641c90711b8",
-                    "race_comment": "DUALIST (6) is a handy galloper who resumed with a good second over 1400m at Chukyo Dirt after being on the speed throughout. Fitter and looks a great chance to add to his three wins from just five starts. FULL VOTE (10) ran on well for a 0.8 lengths victory at this circuit and journey as favourite last time out, making it two-for-two this prep. Should be parked just off the speed and will be tough to beat again. GEMPACHI FORZA (3) scored a big win last start over 1200m at Nakayama Dirt to make it two wins from four starts. Has the speed to be prominent in the run and looks one of the main contenders. LUCE D'ORO (7) ran on well when resuming at big odds last time over 1400m at Chukyo Dirt, finishing fourth and beaten just 1.1 lengths. Beaten narrowly at G3 level as a juvenile so he has the talent to test these.",
-                    "additional_data": "{\"gait\":\"Gallop\",\"prizes\":[{\"type\":\"total_value\",\"value\":\"$410,144\"}],\"start_time\":\"02/05/2021 15:30:00 PM\"}",
-                    "generated": 1,
-                    "silk_base_url": "drr38safykj6s.cloudfront.net",
-                    "race_comment_alternative": "DUALIST (6) is a handy galloper who resumed with a good second over 1400m at Chukyo Dirt after being on the speed throughout. Fitter and looks a great chance to add to his three wins from just five starts. FULL VOTE (10) ran on well for a 0.8 lengths victory at this circuit and journey as favourite last time out, making it two-for-two this prep. Should be parked just off the speed and will be tough to beat again. GEMPACHI FORZA (3) scored a big win last start over 1200m at Nakayama Dirt to make it two wins from four starts. Has the speed to be prominent in the run and looks one of the main contenders. LUCE D'ORO (7) ran on well when resuming at big odds last time over 1400m at Chukyo Dirt, finishing fourth and beaten just 1.1 lengths. Beaten narrowly at G3 level as a juvenile so he has the talent to test these."
-                },
-                "venue_id": "1dab1d23-e467-4c98-92e4-cd87deb2bb3d",
-                "venue_name": "Hanshin",
-                "venue_state": "JPN",
-                "venue_country": "JPN"
-            },
-            "4c20480d-e980-48bd-992e-a16e24ff16a5": {
-                "race_id": "4c20480d-e980-48bd-992e-a16e24ff16a5",
-                "race_name": "Tdc Livestock \u0026 Property-Bm62",
+            "394494cb-2113-4427-87bf-d4d07c8c3463": {
+                "race_id": "394494cb-2113-4427-87bf-d4d07c8c3463",
+                "race_name": "Nt Boundless Possible Sprint",
                 "race_number": 6,
-                "meeting_id": "bf081a48-2730-4194-8bca-de2bedbf071e",
-                "meeting_name": "Naracoorte",
-                "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+                "meeting_id": "fc1a4bac-2463-4255-a399-41cdeef2765f",
+                "meeting_name": "Darwin",
+                "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
                 "advertised_start": {
-                    "seconds": 1619935380
+                    "seconds": 1619953440
                 },
                 "race_form": {
-                    "distance": 1000,
-                    "distance_type": {
-                        "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
-                        "name": "Metres",
-                        "short_name": "m"
-                    },
-                    "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
-                    "track_condition": {
-                        "id": "11d7e662-487a-11ea-9d54-4689356d4521",
-                        "name": "Good4",
-                        "short_name": "good4"
-                    },
-                    "track_condition_id": "11d7e662-487a-11ea-9d54-4689356d4521",
-                    "weather": {
-                        "id": "01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
-                        "name": "Fine",
-                        "short_name": "fine",
-                        "icon_uri": "Fine"
-                    },
-                    "weather_id": "01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
-                    "race_comment": "\r\nWANDO BEL (2) was a good winner here last time out over Desert Spirit and he draws perfectly here. He’ll get a gun run and take beating. ATOMIC WIZARD (3) draws out but was game behind Lancaster Sound last time and her overall record here is very good. DESERT SPIRIT (4) will be right in the thick of things from the inside gate and is a speedy type who has a good record this track and trip. KEV'S GIRL (6) was a soft Terang winner last tie out and should get a gun run from the draw in a race with plenty of speed. ROHLON DRUNK (1) was down the track at Gawler behind Extra Mile last time and his previous effort behind Thrill Kill was very good and is a three time winner here.",
-                    "additional_data": "{\"gait\":\"Gallop\",\"prizes\":[{\"type\":\"total_value\",\"value\":\"$16,800\"}],\"start_time\":\"02/05/2021 15:33:00 PM\"}",
-                    "generated": 1,
-                    "silk_base_url": "drr38safykj6s.cloudfront.net",
-                    "race_comment_alternative": "\r\nWANDO BEL (2) was a good winner here last time out over Desert Spirit and he draws perfectly here. He’ll get a gun run and take beating. ATOMIC WIZARD (3) draws out but was game behind Lancaster Sound last time and her overall record here is very good. DESERT SPIRIT (4) will be right in the thick of things from the inside gate and is a speedy type who has a good record this track and trip. KEV'S GIRL (6) was a soft Terang winner last tie out and should get a gun run from the draw in a race with plenty of speed. ROHLON DRUNK (1) was down the track at Gawler behind Extra Mile last time and his previous effort behind Thrill Kill was very good and is a three time winner here."
-                },
-                "venue_id": "a84b9c00-107c-4592-95e2-a235b7f55f9e",
-                "venue_name": "Naracoorte",
-                "venue_state": "SA",
-                "venue_country": "AUS"
-            },
-            "5d59283c-f781-4820-b00f-3dd76e8450d8": {
-                "race_id": "5d59283c-f781-4820-b00f-3dd76e8450d8",
-                "race_name": "Povey Stirk Hcp (70)",
-                "race_number": 6,
-                "meeting_id": "d508d183-141b-4c57-8420-a877505121c5",
-                "meeting_name": "Alice Springs",
-                "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
-                "advertised_start": {
-                    "seconds": 1619935560
-                },
-                "race_form": {
-                    "distance": 1400,
+                    "distance": 537,
                     "distance_type": {
                         "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
                         "name": "Metres",
@@ -171,29 +116,29 @@
                         "icon_uri": "FINE"
                     },
                     "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
-                    "race_comment": "\r\nTIGER TRAP (4) is quick and ready to win off two near-misses. Finds easier grade and can manage the wide gate. RADIO ROOM (1) seeks the hat-trick off the nice 66 win when first-up in a strong form contest. He can go on with it now using the rails barrier. FLOREAT PICA (9) is a former Victorian back after 37 days for the Cole yard. He wins this at best and just has to take to the surface. DATASET (7) disappointed the latest but won and jut missed the two before and is capable of bouncing.",
-                    "additional_data": "{\"gait\":\"Gallop\",\"prizes\":[{\"type\":\"total_value\",\"value\":\"$30,000\"}],\"start_time\":\"02/05/2021 15:36:00 PM\"}",
+                    "race_comment": "PERCY'S DREAM (1) turned in a solid run last start over 383m at this track finishing 4th and beaten only 4 lengths (22.87). Yet to win at the journey but has run some good races. Given another chance here. RED RAILER (4) doesn't have the best strike-rate but latest effort sound. Finished third (23.23) at this track latest and might be close to finding winning form again. Form at the trip sound including four wins. Can measure up this time. APRES MONELLI (5) was safely held last time finishing seventh at this track over 383m behind Victory Arrow (23.35) in a Grade 4/5. Still a maiden from the draw but has placed three of four runs. Cannot be left out. IRINKA TINA (8) should be thereabouts despite an unplaced run here most recently.",
+                    "additional_data": "{\"gait\":\"Gallop\",\"classes\":[\"MIXED 4/5\"],\"prizes\":[{\"type\":\"1st\",\"value\":\"1000\"},{\"type\":\"2nd\",\"value\":\"350\"},{\"type\":\"3rd\",\"value\":\"225\"},{\"type\":\"total_value\",\"value\":\"1575\"}],\"start_time\":\"02/05/2021 20:34:00 PM\"}",
                     "generated": 1,
                     "silk_base_url": "drr38safykj6s.cloudfront.net",
-                    "race_comment_alternative": "\r\nTIGER TRAP (4) is quick and ready to win off two near-misses. Finds easier grade and can manage the wide gate. RADIO ROOM (1) seeks the hat-trick off the nice 66 win when first-up in a strong form contest. He can go on with it now using the rails barrier. FLOREAT PICA (9) is a former Victorian back after 37 days for the Cole yard. He wins this at best and just has to take to the surface. DATASET (7) disappointed the latest but won and jut missed the two before and is capable of bouncing."
+                    "race_comment_alternative": "PERCY'S DREAM (1) turned in a solid run last start over 383m at this track finishing 4th and beaten only 4 lengths (22.87). Yet to win at the journey but has run some good races. Given another chance here. RED RAILER (4) doesn't have the best strike-rate but latest effort sound. Finished third (23.23) at this track latest and might be close to finding winning form again. Form at the trip sound including four wins. Can measure up this time. APRES MONELLI (5) was safely held last time finishing seventh at this track over 383m behind Victory Arrow (23.35) in a Grade 4/5. Still a maiden from the draw but has placed three of four runs. Cannot be left out. IRINKA TINA (8) should be thereabouts despite an unplaced run here most recently."
                 },
-                "venue_id": "afa0f0ad-50a1-43ff-82c3-c229722cfb36",
-                "venue_name": "Alice Springs",
+                "venue_id": "15584daf-a8b7-4356-8eaf-165311a96fa5",
+                "venue_name": "Darwin",
                 "venue_state": "NT",
                 "venue_country": "AUS"
             },
-            "b59c9ba7-1149-4fb3-aa61-e4024a7499b7": {
-                "race_id": "b59c9ba7-1149-4fb3-aa61-e4024a7499b7",
-                "race_name": "Tab Long May We Play Ht3",
-                "race_number": 7,
-                "meeting_id": "db67533b-063e-4e4f-9683-abb8717d9e96",
-                "meeting_name": "Sandown Park",
+            "3ee7b6b5-9bbc-4d05-9401-e3b0c0d45bcc": {
+                "race_id": "3ee7b6b5-9bbc-4d05-9401-e3b0c0d45bcc",
+                "race_name": "The Bunyip Stake Pr1 Division1",
+                "race_number": 11,
+                "meeting_id": "722fd7f4-349e-449a-9317-4517e8f098ac",
+                "meeting_name": "Gawler",
                 "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
                 "advertised_start": {
-                    "seconds": 1619935920
+                    "seconds": 1619953260
                 },
                 "race_form": {
-                    "distance": 515,
+                    "distance": 400,
                     "distance_type": {
                         "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
                         "name": "Metres",
@@ -213,29 +158,58 @@
                         "icon_uri": "FINE"
                     },
                     "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
-                    "race_comment": "ANGEL GLOW (4) was beaten into fourth last time but ran impressive time with a useful 29.57 at this track over 515m. Has the ability and expected to go close. HEAD ON BONNIE (1) goes very well this trip starting eight times for three wins and two minors. Placed last time (29.95) at this track in a Grade 5, finishing second and beaten 4.5 lengths. Looks suited here and can measure up. PLAN AHEAD (8) comes off a moderate effort latest finishing sixth at Geelong over 520m behind El Cazador (30.73) in a Grade 4/5. Was in winning form prior to that. Form from last run has since proven very strong. Better than last start and can bounce back. SLICK INTENTION (5) comes into calculations after placing most recently.",
-                    "additional_data": "{\"gait\":\"Gallop\",\"classes\":[\"GRADE 5 HEAT\"],\"prizes\":[{\"type\":\"1st\",\"value\":\"1900\"},{\"type\":\"2nd\",\"value\":\"550\"},{\"type\":\"3rd\",\"value\":\"275\"},{\"type\":\"total_value\",\"value\":\"2725\"}],\"start_time\":\"02/05/2021 15:42:00 PM\"}",
+                    "race_comment": "SHOTS FIRED (1) has been out of the placings last two but prior to that posted a swift 31.00 win over 531m at this track. Smart win three back and looks a key chance here. BELLA BLITZ (4) has a strong winning strike-rate here with three wins and a placing from six tries. Below best last time at Murray Bridge (16.99) in a Grade 6, finishing a 4 length fourth. Looks suited here and can measure up. BIG PREDICTION (2) doesn't have the best strike-rate but latest effort sound. Hit the board with a minor placing when third (23.28) at this track. Has a good record at this journey. Consistent record from the draw including a win and three minors. Can measure up this time. HOPE'S TRIBUTE (8) can measure up with the right run.",
+                    "additional_data": "{\"gait\":\"Gallop\",\"classes\":[\"GRADE 5\"],\"prizes\":[{\"type\":\"1st\",\"value\":\"920\"},{\"type\":\"2nd\",\"value\":\"260\"},{\"type\":\"3rd\",\"value\":\"130\"},{\"type\":\"total_value\",\"value\":\"1310\"}],\"start_time\":\"02/05/2021 20:31:00 PM\"}",
                     "generated": 1,
                     "silk_base_url": "drr38safykj6s.cloudfront.net",
-                    "race_comment_alternative": "ANGEL GLOW (4) was beaten into fourth last time but ran impressive time with a useful 29.57 at this track over 515m. Has the ability and expected to go close. HEAD ON BONNIE (1) goes very well this trip starting eight times for three wins and two minors. Placed last time (29.95) at this track in a Grade 5, finishing second and beaten 4.5 lengths. Looks suited here and can measure up. PLAN AHEAD (8) comes off a moderate effort latest finishing sixth at Geelong over 520m behind El Cazador (30.73) in a Grade 4/5. Was in winning form prior to that. Form from last run has since proven very strong. Better than last start and can bounce back. SLICK INTENTION (5) comes into calculations after placing most recently."
+                    "race_comment_alternative": "SHOTS FIRED (1) has been out of the placings last two but prior to that posted a swift 31.00 win over 531m at this track. Smart win three back and looks a key chance here. BELLA BLITZ (4) has a strong winning strike-rate here with three wins and a placing from six tries. Below best last time at Murray Bridge (16.99) in a Grade 6, finishing a 4 length fourth. Looks suited here and can measure up. BIG PREDICTION (2) doesn't have the best strike-rate but latest effort sound. Hit the board with a minor placing when third (23.28) at this track. Has a good record at this journey. Consistent record from the draw including a win and three minors. Can measure up this time. HOPE'S TRIBUTE (8) can measure up with the right run."
                 },
-                "venue_id": "069d069b-b7aa-44a1-a484-64e9701a09f9",
-                "venue_name": "Sandown Park",
-                "venue_state": "VIC",
+                "venue_id": "8e36b563-f688-4187-8a98-07633bdc0769",
+                "venue_name": "Gawler",
+                "venue_state": "SA",
                 "venue_country": "AUS"
             },
-            "bcd94463-410f-4137-97ba-18598be286c5": {
-                "race_id": "bcd94463-410f-4137-97ba-18598be286c5",
-                "race_name": "Rock's Tavern Open Stake Pr2",
-                "race_number": 11,
-                "meeting_id": "d19dcc43-fc57-4998-9e50-9b8c8c19962e",
-                "meeting_name": "Mount Gambier",
+            "6bd05c2c-e630-4120-9157-b4f3b3c0ad41": {
+                "race_id": "6bd05c2c-e630-4120-9157-b4f3b3c0ad41",
+                "race_name": "483Mtrs (A3)",
+                "race_number": 6,
+                "meeting_id": "947f7319-d8aa-4c07-ab24-8723b9ca3267",
+                "meeting_name": "Doncaster Bags",
                 "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
                 "advertised_start": {
-                    "seconds": 1619935440
+                    "seconds": 1619953260
                 },
                 "race_form": {
-                    "distance": 400,
+                    "distance": 483,
+                    "distance_type": {
+                        "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+                        "name": "Metres",
+                        "short_name": "m"
+                    },
+                    "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+                    "race_comment": "Racing Post Top picks 6,4,2",
+                    "additional_data": "{\"gait\":\"Gallop\",\"classes\":[\"A3\"],\"prizes\":[{\"type\":\"total_value\",\"value\":\"120\"}],\"start_time\":\"2/05/2021 8:31:00 PM\"}",
+                    "generated": 1,
+                    "silk_base_url": "drr38safykj6s.cloudfront.net",
+                    "race_comment_alternative": "Racing Post Top picks 6,4,2"
+                },
+                "venue_id": "c4fb30d9-db2b-49c2-9a75-71e8b57a8aea",
+                "venue_name": "Doncaster Bags",
+                "venue_state": "UK",
+                "venue_country": "UK"
+            },
+            "7240e870-56e7-4ae7-aa7f-9de6f61ae11a": {
+                "race_id": "7240e870-56e7-4ae7-aa7f-9de6f61ae11a",
+                "race_name": "@Sunderlanddogs Stakes",
+                "race_number": 4,
+                "meeting_id": "dfe22337-de1f-4f4a-9f0c-2a86b9f8f11e",
+                "meeting_name": "Sunderland Bags",
+                "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+                "advertised_start": {
+                    "seconds": 1619953080
+                },
+                "race_form": {
+                    "distance": 450,
                     "distance_type": {
                         "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
                         "name": "Metres",
@@ -255,71 +229,29 @@
                         "icon_uri": "OCAST"
                     },
                     "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
-                    "race_comment": "ALMIGHTY STRIPE (7) found trouble and failed to finish over 400m at this track last time when strongly fancied. Has good speed and will be prominent from out wide. Key player on best form and expected to bounce back. SILENT JACKO (2) boasts a strong record this course with 12 wins and 13 minors from 35 tries. Missed the frame latest (30.23) when sixth over 512m at this track in a OPEN. Among the main chances. JERVOIS BRUIT (4) is in hot form after clocking a speedy 22.40 victory two back then followed up with a 23.01 win at Gawler over 400m last time. Flying lately and shapes as a definite danger again. NUMINOUS (1) racing over this distance brings the best out in him.",
-                    "additional_data": "{\"gait\":\"Gallop\",\"classes\":[\"MIXED GRAD\"],\"prizes\":[{\"type\":\"1st\",\"value\":\"675\"},{\"type\":\"2nd\",\"value\":\"195\"},{\"type\":\"3rd\",\"value\":\"95\"},{\"type\":\"total_value\",\"value\":\"965\"}],\"start_time\":\"02/05/2021 15:34:00 PM\"}",
+                    "race_comment": "Racing Post Top picks 3,1,6",
+                    "additional_data": "{\"gait\":\"Gallop\",\"classes\":[\"HP\"],\"prizes\":[{\"type\":\"total_value\",\"value\":\"137\"}],\"start_time\":\"2/05/2021 8:28:00 PM\"}",
                     "generated": 1,
                     "silk_base_url": "drr38safykj6s.cloudfront.net",
-                    "race_comment_alternative": "ALMIGHTY STRIPE (7) found trouble and failed to finish over 400m at this track last time when strongly fancied. Has good speed and will be prominent from out wide. Key player on best form and expected to bounce back. SILENT JACKO (2) boasts a strong record this course with 12 wins and 13 minors from 35 tries. Missed the frame latest (30.23) when sixth over 512m at this track in a OPEN. Among the main chances. JERVOIS BRUIT (4) is in hot form after clocking a speedy 22.40 victory two back then followed up with a 23.01 win at Gawler over 400m last time. Flying lately and shapes as a definite danger again. NUMINOUS (1) racing over this distance brings the best out in him."
+                    "race_comment_alternative": "Racing Post Top picks 3,1,6"
                 },
-                "venue_id": "ee0a708d-fb8a-424d-a37f-742b08540713",
-                "venue_name": "Mount Gambier",
-                "venue_state": "SA",
-                "venue_country": "AUS"
+                "venue_id": "bf83b5fa-4e14-4466-816a-e6c6a30ea5b1",
+                "venue_name": "Sunderland Bags",
+                "venue_state": "UK",
+                "venue_country": "UK"
             },
-            "c28b12d3-f50a-4584-a515-663233305217": {
-                "race_id": "c28b12d3-f50a-4584-a515-663233305217",
-                "race_name": "Grow Better (Bm58)",
-                "race_number": 7,
-                "meeting_id": "b0b11112-a795-4f4e-9c13-4b15cb6f1775",
-                "meeting_name": "Bendigo",
-                "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
-                "advertised_start": {
-                    "seconds": 1619936100
-                },
-                "race_form": {
-                    "distance": 1300,
-                    "distance_type": {
-                        "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
-                        "name": "Metres",
-                        "short_name": "m"
-                    },
-                    "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
-                    "track_condition": {
-                        "id": "11d7e662-487a-11ea-9d54-4689356d4521",
-                        "name": "Good4",
-                        "short_name": "good4"
-                    },
-                    "track_condition_id": "11d7e662-487a-11ea-9d54-4689356d4521",
-                    "weather": {
-                        "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
-                        "name": "FINE",
-                        "short_name": "fine",
-                        "icon_uri": "FINE"
-                    },
-                    "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
-                    "race_comment": "GRAND POPE (3) is close to breaking through again after a narrow loss last time at Pakenham. Looks ideally placed in this grade and should go close. DOMINUS (1) was a Ballarat winner three starts back before not being disgraced in town at past couple. Rates strongly here and is well worth another chance. THE SISCOS KID (6) followed up a Stawell victory with a promising display at Wangaratta last time. Expected to measure up here. SURIN BEACH (9) just missed as favourite at Echuca last time and back on home track here should make a bold bid.",
-                    "additional_data": "{\"gait\":\"Gallop\",\"prizes\":[{\"type\":\"total_value\",\"value\":\"$35,000\"}],\"start_time\":\"02/05/2021 15:45:00 PM\"}",
-                    "generated": 1,
-                    "silk_base_url": "drr38safykj6s.cloudfront.net",
-                    "race_comment_alternative": "GRAND POPE (3) is close to breaking through again after a narrow loss last time at Pakenham. Looks ideally placed in this grade and should go close. DOMINUS (1) was a Ballarat winner three starts back before not being disgraced in town at past couple. Rates strongly here and is well worth another chance. THE SISCOS KID (6) followed up a Stawell victory with a promising display at Wangaratta last time. Expected to measure up here. SURIN BEACH (9) just missed as favourite at Echuca last time and back on home track here should make a bold bid."
-                },
-                "venue_id": "27ed2c22-e7e3-41eb-8c41-692d6979ea05",
-                "venue_name": "Bendigo",
-                "venue_state": "VIC",
-                "venue_country": "AUS"
-            },
-            "ccbd716a-4bf7-4a28-9f47-0b2e244690d6": {
-                "race_id": "ccbd716a-4bf7-4a28-9f47-0b2e244690d6",
-                "race_name": "Class 5 Handicap",
+            "89cae667-9528-45e9-9512-ef4c8e59a164": {
+                "race_id": "89cae667-9528-45e9-9512-ef4c8e59a164",
+                "race_name": "Race 4",
                 "race_number": 4,
-                "meeting_id": "054074a0-0b90-4fa4-8f77-5f2c6ef24819",
-                "meeting_name": "Busan Korea",
-                "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+                "meeting_id": "838a03cb-ac00-43e3-bb96-dfc23b3ee631",
+                "meeting_name": "Pelaw Grange Bags",
+                "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
                 "advertised_start": {
-                    "seconds": 1619935800
+                    "seconds": 1619952660
                 },
                 "race_form": {
-                    "distance": 1399,
+                    "distance": 435,
                     "distance_type": {
                         "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
                         "name": "Metres",
@@ -333,35 +265,35 @@
                     },
                     "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
                     "weather": {
-                        "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
-                        "name": "FINE",
-                        "short_name": "fine",
-                        "icon_uri": "FINE"
+                        "id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+                        "name": "OCAST",
+                        "short_name": "ocast",
+                        "icon_uri": "OCAST"
                     },
-                    "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
-                    "race_comment": "TRIUMPH KING (11) showed good speed and was prominent throughout before holding a placing, beaten 7 lengths over 1400m here last time. Has the addition of blinkers this time and will strip much fitter. Sure to go close. SISEON GANGTAL (5) is usually thereabouts but finds it hard to win, with one from 12 starts but has been placed five times. Yet to win at the distance but has recorded two minor placings from three tries and is sure to run well. SUNLIGHT BOY (2) finished fifth last start over 1400m at this track, beaten 5.5 lengths. Rates well and looks a definite each way chance. BEAUTIFUL GALLOP (7) finished fourth last start over 1400m at this track, beaten 10 lengths. Has the ability to give this a shake.",
-                    "additional_data": "{\"gait\":\"Gallop\",\"classes\":[\"5\",\"Flat\",\"handicap=true\"],\"prizes\":[{\"type\":\"1st\",\"value\":\"17639286\"},{\"type\":\"2nd\",\"value\":\"5600317\"},{\"type\":\"3rd\",\"value\":\"2799414\"},{\"type\":\"4th\",\"value\":\"1959590\"}],\"restrictions\":{\"age\":\"3YO plus\"},\"start_time\":\"02/05/2021 15:40:00 PM\"}",
+                    "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+                    "race_comment": "Racing Post Top picks 2,4,1",
+                    "additional_data": "{\"gait\":\"Gallop\",\"classes\":[\"A4\"],\"restrictions\":{},\"start_time\":\"02/05/2021 20:21:00 PM\"}",
                     "generated": 1,
                     "silk_base_url": "drr38safykj6s.cloudfront.net",
-                    "race_comment_alternative": "TRIUMPH KING (11) showed good speed and was prominent throughout before holding a placing, beaten 7 lengths over 1400m here last time. Has the addition of blinkers this time and will strip much fitter. Sure to go close. SISEON GANGTAL (5) is usually thereabouts but finds it hard to win, with one from 12 starts but has been placed five times. Yet to win at the distance but has recorded two minor placings from three tries and is sure to run well. SUNLIGHT BOY (2) finished fifth last start over 1400m at this track, beaten 5.5 lengths. Rates well and looks a definite each way chance. BEAUTIFUL GALLOP (7) finished fourth last start over 1400m at this track, beaten 10 lengths. Has the ability to give this a shake."
+                    "race_comment_alternative": "Racing Post Top picks 2,4,1"
                 },
-                "venue_id": "74fa7791-6ea8-4370-872b-1d81d6e455c7",
-                "venue_name": "Busan Korea",
-                "venue_state": "KOR",
-                "venue_country": "KOR"
+                "venue_id": "b77cdd9d-6da2-411b-9c0c-b212f3aedaa3",
+                "venue_name": "Pelaw Grange Bags",
+                "venue_state": "UK",
+                "venue_country": "UK"
             },
-            "e0d55055-2907-4b9e-a2e7-70e9d68e9ed7": {
-                "race_id": "e0d55055-2907-4b9e-a2e7-70e9d68e9ed7",
-                "race_name": "Selangor Malaysia Class 4",
-                "race_number": 4,
-                "meeting_id": "ab832bfd-4b1e-4b68-86cc-8e8cfc6d679b",
-                "meeting_name": "Selangor",
-                "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+            "c79b1258-9d4c-4b8a-aa24-a4345d03b367": {
+                "race_id": "c79b1258-9d4c-4b8a-aa24-a4345d03b367",
+                "race_name": "Jeremy Rockliff Pace",
+                "race_number": 8,
+                "meeting_id": "c830f1cf-a098-481d-8449-0798364856d9",
+                "meeting_name": "Devonport",
+                "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
                 "advertised_start": {
-                    "seconds": 1619936100
+                    "seconds": 1619952960
                 },
                 "race_form": {
-                    "distance": 1600,
+                    "distance": 1930,
                     "distance_type": {
                         "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
                         "name": "Metres",
@@ -375,31 +307,35 @@
                     },
                     "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
                     "weather": {
-                        "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
-                        "name": "FINE",
-                        "short_name": "fine",
-                        "icon_uri": "FINE"
+                        "id": "30f41b94-f969-11e7-9984-06a96a561a68",
+                        "name": "SHWRY",
+                        "short_name": "shwry",
+                        "icon_uri": "SHWRY"
                     },
-                    "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
-                    "silk_base_url": "drr38safykj6s.cloudfront.net"
+                    "weather_id": "30f41b94-f969-11e7-9984-06a96a561a68",
+                    "race_comment": "MOONLITE BAY (7) has put two wins together on the bounce and certainly has the ability to take this out. ROCKANDAHARDPLACE (5) was a solid winner two starts back before a handy second last start. Right in this. RAMBLEON (10) has won his past two starts and looks a strong place hope. MAJOR DAVVIN (6) will be rock-hard fit for this and must be respected.",
+                    "additional_data": "{\"gait\":\"Pace\",\"prizes\":[{\"type\":\"total_value\",\"value\":\"$8,750\"}],\"start_time\":\"02/05/2021 20:23:00 PM\"}",
+                    "generated": 1,
+                    "silk_base_url": "drr38safykj6s.cloudfront.net",
+                    "race_comment_alternative": "MOONLITE BAY (7) has put two wins together on the bounce and certainly has the ability to take this out. ROCKANDAHARDPLACE (5) was a solid winner two starts back before a handy second last start. Right in this. RAMBLEON (10) has won his past two starts and looks a strong place hope. MAJOR DAVVIN (6) will be rock-hard fit for this and must be respected."
                 },
-                "venue_id": "d39fd66a-e0fe-4fab-88ae-023834ba177e",
-                "venue_name": "Selangor",
-                "venue_state": "MYS",
-                "venue_country": "MYS"
+                "venue_id": "4138271e-a257-4b30-9977-fa47febe2207",
+                "venue_name": "Devonport",
+                "venue_state": "TAS",
+                "venue_country": "AUS"
             },
-            "e5454fe3-4a0a-4a96-b0b9-050af69f73b5": {
-                "race_id": "e5454fe3-4a0a-4a96-b0b9-050af69f73b5",
-                "race_name": "Kennards Hire (Bm58)",
-                "race_number": 6,
-                "meeting_id": "90b3f708-1f81-47f8-b0fc-3a1923f4c902",
-                "meeting_name": "Bathurst",
-                "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+            "e2e26a03-38b9-49eb-8f0c-4a8e73a6c728": {
+                "race_id": "e2e26a03-38b9-49eb-8f0c-4a8e73a6c728",
+                "race_name": "Out And About Dog Walking",
+                "race_number": 8,
+                "meeting_id": "5f8b631d-ca57-48a0-bde9-94704b0b0a8b",
+                "meeting_name": "Nowra",
+                "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
                 "advertised_start": {
-                    "seconds": 1619935680
+                    "seconds": 1619952960
                 },
                 "race_form": {
-                    "distance": 1100,
+                    "distance": 365,
                     "distance_type": {
                         "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
                         "name": "Metres",
@@ -407,11 +343,11 @@
                     },
                     "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
                     "track_condition": {
-                        "id": "11d7e662-487a-11ea-9d54-4689356d4521",
-                        "name": "Good4",
-                        "short_name": "good4"
+                        "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                        "name": "Good",
+                        "short_name": "good"
                     },
-                    "track_condition_id": "11d7e662-487a-11ea-9d54-4689356d4521",
+                    "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
                     "weather": {
                         "id": "0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
                         "name": "Overcast",
@@ -419,15 +355,57 @@
                         "icon_uri": "Overcast"
                     },
                     "weather_id": "0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
-                    "race_comment": "\r\nEMERIZ (4) was a dominant maiden winner last time out and can take plenty of confidence from that victory. Hutchings has been in the irons for all three career starts to date and sticks.  Drawn to get a great run from gate three and will in it a long way. STONE COLD (1) is a winner of seven races and is one from one over this track and trip. Gets 2kg off with the claim and looks a major threat. BLAZING BEAU (6) is another who gets the benefit of a 2kg claim and will be at peak fitness for this fourth-up from the spell. ON ANGELS WINGS (3) has been plying his trade in provincial company and will appreciate the drop in grade here first run for the new stable. Must be included. MOON OVER MENAH (7) loves this track with two wins and a second from just four starts and can be in the frame.",
-                    "additional_data": "{\"gait\":\"Gallop\",\"prizes\":[{\"type\":\"total_value\",\"value\":\"$22,000\"}],\"start_time\":\"02/05/2021 15:38:00 PM\"}",
+                    "race_comment": "MISS SEDAKA (1) missed the frame latest but had been racing well prior to that including a Maiden win two back (17.77) at Dapto. Looks suited here and big improvement expected. FLASH CORTIS (6) has been beaten for early speed lately, last time finishing seventh (31.48) in a Grade 5 at Wentworth Park. Has good speed and can quickly clear the tricky draw. Key player if finds best. JUMPING BEAN (3) doesn't win out of turn but recent form sound. Has been in the minors the last two runs, the latest finishing third (30.59) at Dapto. Can feature again this time. BE KIND REWIND (2) can sneak into the finish with the right run.",
+                    "additional_data": "{\"gait\":\"Gallop\",\"classes\":[\"GRADE 5\"],\"prizes\":[{\"type\":\"1st\",\"value\":\"1500\"},{\"type\":\"2nd\",\"value\":\"460\"},{\"type\":\"3rd\",\"value\":\"350\"},{\"type\":\"total_value\",\"value\":\"2310\"}],\"start_time\":\"02/05/2021 20:26:00 PM\"}",
                     "generated": 1,
                     "silk_base_url": "drr38safykj6s.cloudfront.net",
-                    "race_comment_alternative": "\r\nEMERIZ (4) was a dominant maiden winner last time out and can take plenty of confidence from that victory. Hutchings has been in the irons for all three career starts to date and sticks.  Drawn to get a great run from gate three and will in it a long way. STONE COLD (1) is a winner of seven races and is one from one over this track and trip. Gets 2kg off with the claim and looks a major threat. BLAZING BEAU (6) is another who gets the benefit of a 2kg claim and will be at peak fitness for this fourth-up from the spell. ON ANGELS WINGS (3) has been plying his trade in provincial company and will appreciate the drop in grade here first run for the new stable. Must be included. MOON OVER MENAH (7) loves this track with two wins and a second from just four starts and can be in the frame."
+                    "race_comment_alternative": "MISS SEDAKA (1) missed the frame latest but had been racing well prior to that including a Maiden win two back (17.77) at Dapto. Looks suited here and big improvement expected. FLASH CORTIS (6) has been beaten for early speed lately, last time finishing seventh (31.48) in a Grade 5 at Wentworth Park. Has good speed and can quickly clear the tricky draw. Key player if finds best. JUMPING BEAN (3) doesn't win out of turn but recent form sound. Has been in the minors the last two runs, the latest finishing third (30.59) at Dapto. Can feature again this time. BE KIND REWIND (2) can sneak into the finish with the right run."
                 },
-                "venue_id": "ead10ecd-92ce-40a5-bd35-ce8929b33bcb",
-                "venue_name": "Bathurst",
+                "venue_id": "5df4cfaa-4df2-413a-aa5a-ffd6f874d293",
+                "venue_name": "Nowra",
                 "venue_state": "NSW",
+                "venue_country": "AUS"
+            },
+            "e9bf0ab6-8750-406e-a309-5d7e8bc221da": {
+                "race_id": "e9bf0ab6-8750-406e-a309-5d7e8bc221da",
+                "race_name": "Shane Keith Classic 5Th Grade H",
+                "race_number": 11,
+                "meeting_id": "a7ba0772-9980-4bf7-bf03-0cc81d792cb4",
+                "meeting_name": "Albion Park",
+                "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+                "advertised_start": {
+                    "seconds": 1619952600
+                },
+                "race_form": {
+                    "distance": 331,
+                    "distance_type": {
+                        "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+                        "name": "Metres",
+                        "short_name": "m"
+                    },
+                    "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+                    "track_condition": {
+                        "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                        "name": "Good",
+                        "short_name": "good"
+                    },
+                    "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                    "weather": {
+                        "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+                        "name": "FINE",
+                        "short_name": "fine",
+                        "icon_uri": "FINE"
+                    },
+                    "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+                    "race_comment": "SUMMER'S MISSILE (1) is a talented type and proved too classy last time to win by 0.03 length at this track in a handy 19.37 beating Wild Fantasy. Comes through a good form race. Can make it back to back wins. WALSH (5) turned spotting a big start finishing seventh (26.43) last time in a Grade 4/5 at Ipswich. Solid record here winning three races. Rates a leading chance on best. KERMADEC (6) showed little early speed at his last couple, the latest finishing eighth (22.85) in a Grade 5 at Maitland. In the mix on best form. MAYWYN ONYX (3) can improve on an unplaced run here last time out.",
+                    "additional_data": "{\"gait\":\"Gallop\",\"classes\":[\"GRADE 5\"],\"prizes\":[{\"type\":\"1st\",\"value\":\"1400\"},{\"type\":\"2nd\",\"value\":\"400\"},{\"type\":\"3rd\",\"value\":\"200\"},{\"type\":\"total_value\",\"value\":\"2000\"}],\"start_time\":\"02/05/2021 20:20:00 PM\"}",
+                    "generated": 1,
+                    "silk_base_url": "drr38safykj6s.cloudfront.net",
+                    "race_comment_alternative": "SUMMER'S MISSILE (1) is a talented type and proved too classy last time to win by 0.03 length at this track in a handy 19.37 beating Wild Fantasy. Comes through a good form race. Can make it back to back wins. WALSH (5) turned spotting a big start finishing seventh (26.43) last time in a Grade 4/5 at Ipswich. Solid record here winning three races. Rates a leading chance on best. KERMADEC (6) showed little early speed at his last couple, the latest finishing eighth (22.85) in a Grade 5 at Maitland. In the mix on best form. MAYWYN ONYX (3) can improve on an unplaced run here last time out."
+                },
+                "venue_id": "12c496d8-9397-4ba4-ba3c-d34ca3625858",
+                "venue_name": "Albion Park",
+                "venue_state": "QLD",
                 "venue_country": "AUS"
             }
         }

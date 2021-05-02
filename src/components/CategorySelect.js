@@ -1,17 +1,16 @@
 import React, { useState } from "react";
 import { Picker } from '@react-native-picker/picker';
 import { CategoryData } from "../utils/CategoryData";
-const CategorySelect = () => {
-    const [selectedLanguage, setSelectedLanguage] = useState();
+const CategorySelect = ({setSelectedCategory, selectedCategory}) => {
     let keys = [...CategoryData.keys()]
     return (
         <Picker
-            selectedValue={selectedLanguage}
+            selectedValue={selectedCategory}
             onValueChange={(itemValue, itemIndex) =>
-                setSelectedLanguage(itemValue)
+                setSelectedCategory(itemValue)
             }>
             {
-                keys.map((key) => <Picker.Item label={key} value={CategoryData.get(key)} />)
+                keys.map((key, index) => <Picker.Item label={key} value={CategoryData.get(key)} key={index}/>)
             }
         </Picker>
     );

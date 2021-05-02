@@ -21,5 +21,5 @@ export async function fetchRaces(dispatch, getState) {
         dispatch({ type: 'SET_NEXT_TO_GO_RACE_IDS', payload: result?.data?.next_to_go_ids })
         dispatch({ type: 'SET_RACE_SUMMARIES', payload: result?.data?.race_summaries })
       })
-      .catch(error => console.log('error', error));
+      .catch(error => console.log('error while fetching==', error));
   }
